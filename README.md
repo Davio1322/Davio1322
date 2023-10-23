@@ -13,6 +13,7 @@
 <div id="hey there" align="center">
   <h1> Профиль на GITHUB </h1>
 </div>
+
 ###:man_technologist: Обо мне: 
 - :brain: факт обо мне
 - :man_pilot: факт обо мне
