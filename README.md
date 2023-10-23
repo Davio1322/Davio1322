@@ -22,5 +22,5 @@
 ### :hammer_and_wrench: Языки и инструменть| :
 
 <div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg"
+ <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg height=100 weight=150"
 </div>
