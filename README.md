@@ -22,5 +22,5 @@
 ### :hammer_and_wrench: Языки и инструменть| :
 
 <div>
- <img src="icons/apple/apple-original.svg"
+ <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"
 </div>
