@@ -25,7 +25,9 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="40" height="40"/>
  <img src= "https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg"width="40" height="40"/>
 </div>
+
 ### :trophy: Достижения :
+
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=Davio1322" alt=""/>
 </div>
