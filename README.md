@@ -20,3 +20,7 @@
 - :biking_man: факт обо мне
 
 ### :hammer_and_wrench: Языки и инструменть| :
+
+<div>
+ <img src="icons/android/android-original-wordmark.svg"
+</div>
